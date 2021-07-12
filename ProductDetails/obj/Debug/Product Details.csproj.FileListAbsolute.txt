@@ -1,0 +1,22 @@
+C:\Users\chyra\source\repos\finalExam\Product Details\Product Details\bin\Debug\Product Details.exe.config
+C:\Users\chyra\source\repos\finalExam\Product Details\Product Details\bin\Debug\Product Details.exe
+C:\Users\chyra\source\repos\finalExam\Product Details\Product Details\bin\Debug\Product Details.pdb
+C:\Users\chyra\source\repos\finalExam\Product Details\Product Details\obj\Debug\Product Details.csprojAssemblyReference.cache
+C:\Users\chyra\source\repos\finalExam\Product Details\Product Details\obj\Debug\Product_Details.Properties.Resources.resources
+C:\Users\chyra\source\repos\finalExam\Product Details\Product Details\obj\Debug\Product Details.csproj.GenerateResource.cache
+C:\Users\chyra\source\repos\finalExam\Product Details\Product Details\obj\Debug\Product Details.csproj.CoreCompileInputs.cache
+C:\Users\chyra\source\repos\finalExam\Product Details\Product Details\obj\Debug\Product Details.exe
+C:\Users\chyra\source\repos\finalExam\Product Details\Product Details\obj\Debug\Product Details.pdb
+C:\Users\chyra\source\repos\finalExam\Product Details\Product Details\obj\Debug\Product_Details.ProductReport.resources
+C:\Users\chyra\source\repos\finalExam\Product Details\Product Details\obj\Debug\Product_Details.Form1.resources
+C:\Users\chyra\OneDrive\Desktop\finalExam\Product Details\Product Details\bin\Debug\Product Details.exe.config
+C:\Users\chyra\OneDrive\Desktop\finalExam\Product Details\Product Details\bin\Debug\Product Details.exe
+C:\Users\chyra\OneDrive\Desktop\finalExam\Product Details\Product Details\bin\Debug\Product Details.pdb
+C:\Users\chyra\OneDrive\Desktop\finalExam\Product Details\Product Details\obj\Debug\Product Details.csprojAssemblyReference.cache
+C:\Users\chyra\OneDrive\Desktop\finalExam\Product Details\Product Details\obj\Debug\Product_Details.Form1.resources
+C:\Users\chyra\OneDrive\Desktop\finalExam\Product Details\Product Details\obj\Debug\Product_Details.ProductReport.resources
+C:\Users\chyra\OneDrive\Desktop\finalExam\Product Details\Product Details\obj\Debug\Product_Details.Properties.Resources.resources
+C:\Users\chyra\OneDrive\Desktop\finalExam\Product Details\Product Details\obj\Debug\Product Details.csproj.GenerateResource.cache
+C:\Users\chyra\OneDrive\Desktop\finalExam\Product Details\Product Details\obj\Debug\Product Details.csproj.CoreCompileInputs.cache
+C:\Users\chyra\OneDrive\Desktop\finalExam\Product Details\Product Details\obj\Debug\Product Details.exe
+C:\Users\chyra\OneDrive\Desktop\finalExam\Product Details\Product Details\obj\Debug\Product Details.pdb
